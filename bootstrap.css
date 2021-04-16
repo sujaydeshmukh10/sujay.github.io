@@ -1,0 +1,235 @@
+
+.welcome h1,p{   
+  margin-left: 50px;  /*icon inline with paragraph */
+}
+.welcome img{
+    margin-top: 50px;
+    width: 80%;
+    height: 80%;
+    
+  }
+  .welcome{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%);}
+    
+.welcome h1{
+    margin-top: 100px;
+    margin-left: 140px;
+    font-size: 50px;
+    font-weight: 800;
+}
+.welcome p{
+    margin-left: 140px;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.welcome button{
+    width: 140px;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;    
+    
+    font-weight: 500;
+    color: #fff;
+    background-color: #f706f7c0;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+    margin-left: 140px;
+    cursor: pointer;
+    outline: none;
+  }
+  .about button{
+    width: 140px;
+    height: 45px;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;     
+    font-weight: 500;
+    color: #fff;
+    background-color: #f706f7c0;;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+    margin-left: 0px;
+    cursor: pointer;
+    outline: none;
+  }
+.about h1{
+    font-size: 45px;
+    text-align: center;
+    font-weight: 800;
+}
+.about{
+  padding-right: 30px;
+  margin-top: 30px;
+}
+.about img{
+  margin-top: 30px;
+    width: 75%;
+    height: 85%;    
+    margin-left: 60px;
+  }
+.service{
+  background: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.service h1{
+  font-size: 45px;
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+
+.navbar{
+    color: rgb(206, 26, 212);
+    font-size: 25px;
+}
+.nav-link{
+    color:white;
+    font-size: 15px;
+}  
+h2{
+      text-align: center;
+      padding-top:40px;
+      padding-bottom: 30px;
+  }
+.about{
+  padding-right: 30px;
+  margin-top: 30px;
+}
+.about img{
+  margin-top: 30px;
+    width: 75%;
+    height: 85%;    
+    margin-left: 60px;
+  }
+  .service{
+    background: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%);
+    margin-top: 40px;
+    padding-left: 20px;
+  }
+  .box{
+    background: white;
+    display: block;
+    margin-left: 70px;    
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 10px;
+    width: 250px;
+    height: 300px;
+    color: black;
+    box-sizing: content-box;
+    margin-bottom: 40px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.6);
+
+  } 
+  .box p{
+    margin: 0;
+  }
+  .box h1{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: left;
+    margin-top: 20px;
+  }
+  .learn p{
+    display: inline-block;
+    color:  rgb(227, 9, 247);
+    font-weight: 500;
+    margin-top: 25px;
+  }
+  .fal,.fas {    
+    font-family: FontAwesome;
+    position: relative;    
+    color: rgb(166, 52, 177);
+    font-size: 50px;  
+    padding-right: 18px;       
+
+    }
+    
+.contactus{
+    padding-top: 30px;
+  }
+.contactus h4{
+    text-align: center;
+    padding-top:20px;
+    padding-bottom: 30px;
+    color: rgb(206, 26, 212);
+    font-size: 30px;
+    font-weight: 700;
+}
+.contactus h1{
+  font-size: 45px;
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+.contactus input[type = "text" ]{
+  margin-left: 320px;
+  margin-top: 20px;
+  padding: 20px;
+  display: block;
+  width: 50%;
+  border: 1px solid black;
+  border-radius: 7px;  
+  
+} 
+.contactus input[type="submit"]{
+  margin-left: 320px;
+  margin-top: 20px;
+  background-color: #f706f7c0;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+  font-size: 20px; 
+  font-weight: 500;
+
+}
+.form-group textarea{
+  
+  margin-top: 10px;
+  display: block;
+  width: 80%;
+  border: 1px solid black;
+  border-radius: 7px;  
+  
+}
+    
+.far {    
+    font-family: FontAwesome;
+    position: relative;    
+    color: rgb(166, 52, 177);
+    font-size: 18px;    
+    top: 30px;
+    left: 0;
+    right: 0;
+    }
+  .info{
+      background-color:rgb(59, 59, 59);
+      color:white;
+      margin-top: 20px;
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+    .info p{   
+      margin-left: 10px;  /*icon inline with paragraph */
+    }
+    .info h3{
+      text-align: center;
+      color: rgb(206, 26, 212);      
+    }
+    .fab {    
+      font-family: FontAwesome;
+      position: relative;    
+      color: rgb(166, 52, 177);
+      font-size: 30px;  
+      padding-right: 18px;       
+
+      }
+      .footer{
+        margin-right: 50px;
+        margin-top: 20px;
+      }
+      
